@@ -54,7 +54,7 @@ function App() {
     <Container className="text-center">
       <Card style={{ marginTop: 20 }}>
         <h3 className="display-6">
-          Expense Tracker React App
+          Expense Tracker
           <img src={Logo} style={{ width: 50, height: 50 }} alt="react-logo" />
         </h3>
         <div>
